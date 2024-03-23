@@ -5,6 +5,7 @@
 ### Viikkoraportit
 
 [Viikko 1](https://github.com/rpessi/tiralabra/blob/main/documents/weeklyreports/week1.md)
+[Viikko 2](https://github.com/rpessi/tiralabra/blob/main/documents/weeklyreports/week2.md)
 
 ### Määrittelydokumentti
 
